@@ -1,4 +1,4 @@
-/*
+/* Mostrará la opción false (Cuack)
 ¿Que va a mostrar por el terminal cuando hagamos node ex2.js? ¿Por qué?
 */
 

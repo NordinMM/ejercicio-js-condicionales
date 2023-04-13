@@ -1,4 +1,4 @@
-/*
+/* mostrará la variable true(Miau)
 ¿Que va a mostrar por el terminal cuando hagamos node ex1.js? ¿Por qué?
 */
 
